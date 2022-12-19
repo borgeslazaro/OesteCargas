@@ -131,6 +131,7 @@
 			
 
 		<footer>
+
 			<h3>Transportadora Oeste Cargas</h3>
 			<h4>Especialistas no transporte de medicamentos</h4>
 			<br>
@@ -139,6 +140,10 @@
 			<p class="texto-rodape">E-mail: atendimento@oestecargas.com.br</p>
 			<p class="texto-rodape">WhatsApp: 93-99111-6806</p>
 			<br>
+			<div class "WhatsApp">
+				<img src="whatsapp.png" width="50" alt="Fale conosco via Whatsapp" title="Fale conosco via Whatsapp">
+			</div>
+
 			<p class="texto-rodape" >Cnpj:10.891.580/0001-08 
 									Transportadora Oeste Cargas LTDA
 			</p>
